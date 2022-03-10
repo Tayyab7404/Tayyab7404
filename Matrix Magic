@@ -1,0 +1,22 @@
+#include<stdio.h>
+int main()
+{
+    int n,i,j,m,x,a[20][20];
+    
+    printf("Enter a number: ");
+    scanf("%d",&n);
+    
+    m = 2*n-1;
+    
+    for(x=0;x<n;x++)
+        for(i=x;i<m-x;i++)
+            for(j=x;j<m-x;j++)
+                a[i][j] = n-x;
+            
+    for(i=0;i<m;i++)
+    {
+        for(j=0;j<m;j++)
+            printf("%d\t",a[i][j]);
+        printf("\n\n");
+    }
+}
