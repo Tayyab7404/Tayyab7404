@@ -2,7 +2,7 @@
 I'm currently a 2nd year CS Undergrad<br>Interested in Python and Java Programming<br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tayyab_7404) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/RoshanAli003](https://www.linkedin.com/in/tayyab-tavvagunta-126a8b244/)) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Tayyab7404) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tayyab_7404) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tayyab-tavvagunta-126a8b244/]) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Tayyab7404) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tayyab7404&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
